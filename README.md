@@ -25,15 +25,15 @@
 
 ## 🔧 Incidències i solucions
 
-### 🟦 Missatge d'error exacte
+### 🔹 Missatge d'error exacte
 
-### 🟦 Quan (fase i context)
+### 🔹 Quan (fase i context)
 
-### 🟦 Causa (per què passava)
+### 🔹 Causa (per què passava)
 
-### 🟦 Solució (què vam fer)
+### 🔹 Solució (què vam fer)
 
-### 🟦 Detectada per (@usuari)
+### 🔹 Detectada per (@usuari)
 
 ## 🧠 Decisions técniques
 
