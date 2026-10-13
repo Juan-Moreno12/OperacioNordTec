@@ -11,12 +11,12 @@
 ## Estat del projecte
 - **Fet:**
 
--[✅] RA1
+🔹[✅] RA1
 - **Pendent:**
 
--[⏳] RA2
+🔹[⏳] RA2
 
--[⏳] RA3
+🔹[⏳] RA3
 
 ## 💻Arquitectura de xarxa
 ![Diagrama de la xarxa](Red.png)
