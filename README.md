@@ -15,6 +15,7 @@
 - **Pendent:**
 
 -[⏳] RA2
+
 -[⏳] RA3
 
 ## 💻Arquitectura de xarxa
@@ -24,7 +25,23 @@
 
 ## 🔧 Incidències i solucions
 
+### 🟦 Missatge d'error exacte
+
+### 🟦 Quan (fase i context)
+
+### 🟦 Causa (per què passava)
+
+### 🟦 Solució (què vam fer)
+
+### 🟦 Detectada per (@usuari)
+
 ## 🧠 Decisions técniques
+
+### 🔹 Què hem triat
+
+### 🔹 Per què ho hem triat
+
+### 🔹 Alternatives considerades
 
 ## 💭 Reflexions técniques
 
