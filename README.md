@@ -1,15 +1,15 @@
 # Operació Nord Tec - Juan Pablo Moreno Villegas - ASIX1B
 
 ## Index
-- [Estat del projecte](#estat-del-projecte)
-- [Arquitectura de xarxa](#Arquitectura-de-xarxa)
-- [Configuracions](#Configuracions)
-- [Incidències i solucions](#Incidències-i-solucions)
-- [Decisions técniques](#Decisions-técniques)
-- [Reflexions técniques](#Reflexions-técniques)
+🔹 [Estat del projecte](#estat-del-projecte)
+🔹 [Arquitectura de xarxa](#Arquitectura-de-xarxa)
+🔹 [Configuracions](#Configuracions)
+🔹 [Incidències i solucions](#Incidències-i-solucions)
+🔹 [Decisions técniques](#Decisions-técniques)
+🔹 [Reflexions técniques](#Reflexions-técniques)
 
 ## Estat del projecte
-- **fet:**
+- **Fet:**
 -[X] RA1
 - **Pendent:**
 -[] RA2
@@ -25,3 +25,7 @@
 ## Decisions técniques
 
 ## Reflexions técniques
+
+---
+*Autor: Juan Pablo Moreno Villegas – ASIX1B*  
+*Data: Octubre 13 del 2026*
